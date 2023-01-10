@@ -52,3 +52,14 @@ body {
   z-index: 1041;
   background-size: cover;
 }
+
+.image-less-item {
+  width: 20%;
+  height: 20%;
+}
+
+.image-less-item img {
+  display: inline-block;
+  width: 40%;
+  height: 40%;
+}
